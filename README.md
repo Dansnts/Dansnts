@@ -19,7 +19,7 @@ I like typing things on my keyboard! 👍
 
 ## 🎮 Chinese Video Games
 
-I like Chinese video games too. Very cool, very swag, I like it!  
+I like video games from China too. Very cool, very swag, I like it!  
 ![Kiryu Typing](https://c.tenor.com/kBxZ0Etje2gAAAAC/tenor.gif)
 
 
