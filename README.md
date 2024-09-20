@@ -17,7 +17,7 @@ I write many languages!
 I like typing things on my keyboard! 👍  
 ![Kiryu Typing](https://c.tenor.com/gxGrBVDTqXMAAAAd/tenor.gif)
 
-## 🎮 Chinese Video Games
+## 🎮 Chinese Gaming
 
 I like video games from China too. Very cool, very swag, I like it!  
 ![Kiryu Typing](https://c.tenor.com/kBxZ0Etje2gAAAAC/tenor.gif)
