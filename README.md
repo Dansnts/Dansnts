@@ -1,4 +1,5 @@
-# 👋 Welcome to My Profile
+# 👋 Welcome to King Hennok's profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F7DF1F&width=500&lines=The+Tape+that+Washington+is+looking+for;Brrrrr+Brrrrr+Break+their+knees)](https://git.io/typing-svg)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Dansnts)
 
