@@ -24,5 +24,5 @@ I like video games from China too. Very cool, very swag, I like it!
 ![Kiryu Typing](https://c.tenor.com/kBxZ0Etje2gAAAAC/tenor.gif)
 
 
-# THX 4 reamding
+# THX 4 reamding !
 ![Emoji](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Femoji-transparent-thumbs-up-3.png&f=1&nofb=1&ipt=551d9c27655e9b64b04c26f947cb0e32e89f0f29d8f0a45eb211b1a0a9aaee01&ipo=images)
