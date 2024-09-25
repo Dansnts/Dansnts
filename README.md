@@ -12,7 +12,7 @@ Good stats, I had a 1.8 K/D back in 2015!
 I write many languages!  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dansnts&layout=compact&theme=radical)
 
-## ⌨️ What I Love to Do
+## ⌨️  What I Love to Do
 
 I like typing things on my keyboard! 👍  
 ![Kiryu Typing](https://c.tenor.com/gxGrBVDTqXMAAAAd/tenor.gif)
