@@ -11,7 +11,7 @@
 
 ###  Projects
 
- 
+> Nothing to show yet
 
 ---
 
@@ -38,14 +38,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dansnts&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
-### 🌍 Languages
-
-- 🇫🇷 French — Native  
-- 🇵🇹 Portuguese — C2  
-- 🇬🇧 English — C1  
-
-
----
 
