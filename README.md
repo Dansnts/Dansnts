@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Dansnts 👋</h1>
-
-<p align="center">💻 SysAdmin · 🛠 Open Source Enthusiast </p>
+<h1 align="center">SysAdmin · Open Source Enthusiast </h1>
 
 ---
 
