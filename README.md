@@ -1,28 +1,51 @@
-# 👋 Welcome to King Hennok's profile
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F7DF1F&width=500&lines=The+Tape+that+Washington+is+looking+for;Brrrrr+Brrrrr+Break+their+knees)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Dansnts 👋</h1>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Dansnts)
+<p align="center">💻 SysAdmin · 🛠 Open Source Enthusiast </p>
 
-## 📊 GitHub Stats
+---
 
-Good stats, I had a 1.8 K/D back in 2015!  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansnts&show_icons=true&theme=radical)
+### About Me
 
-## 🔥 Languages I Use
+> A minimalist by nature who believes in the power of simplicity—designing solutions that are straightforward, efficient, and effective.
+---
 
-I write many languages!  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dansnts&layout=compact&theme=radical)
+###  Projects
 
-## ⌨️  What I Love to Do
+ 
 
-I like typing things on my keyboard! 👍  
-![Kiryu Typing](https://c.tenor.com/gxGrBVDTqXMAAAAd/tenor.gif)
+---
 
-## 🎮 Chinese Gaming
+### Tech Stack
 
-I like video games from China too. Very cool, very swag, I like it!  
-![Kiryu Typing](https://c.tenor.com/kBxZ0Etje2gAAAAC/tenor.gif)
+**Infrastructure:**  
+`Cisco` · `Mikrotik` · `Proxmox` · `Windows Server` · `Linux` (Fedora, Debian, Ubuntu)  
+**Cloud/Container:**  
+`Docker` · `Kubernetes` · `Ansible` · `Terraform` · `Azure`  
+**Monitoring:**  
+`Grafana` · `Prometheus`  
+**Dev Tools:**  
+`Git` · `CI/CD` · `HTML` · `PHP` · `TailwindCSS` · `Node.js`  
+**Languages:**  
+`C` · `C++` · `Java` · `Python` · `PowerShell` · `Bash` · `Power Platform`  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dansnts&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dansnts&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌍 Languages
+
+- 🇫🇷 French — Native  
+- 🇵🇹 Portuguese — C2  
+- 🇬🇧 English — C1  
 
 
-# THX 4 reamding !
-![Emoji](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Femoji-transparent-thumbs-up-3.png&f=1&nofb=1&ipt=551d9c27655e9b64b04c26f947cb0e32e89f0f29d8f0a45eb211b1a0a9aaee01&ipo=images)
+---
+
