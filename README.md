@@ -4,7 +4,7 @@
 
 ### About Me
 
-> A minimalist by nature who believes in the power of simplicity—designing solutions that are straightforward, efficient, and effective.
+> A minimalist by nature who believes in simple solutions that are straightforward, efficient, and effective.
 ---
 
 ###  Projects
