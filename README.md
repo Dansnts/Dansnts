@@ -20,7 +20,7 @@
 **Cloud/Container:**  
 `Docker` · `Kubernetes` · `Ansible` · `Terraform` · `Azure`  
 **Monitoring:**  
-`Grafana` · `Prometheus`  
+`Grafana` · `Prometheus` · `ELK`   
 **Dev Tools:**  
 `Git` · `CI/CD` · `HTML` · `PHP` · `TailwindCSS` · `Node.js`  
 **Languages:**  
