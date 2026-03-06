@@ -9,7 +9,7 @@
 
 ###  Projects
 
-> Nothing to show yet
+[Link to my projects](https://fariadossantos.com/projects.html)
 
 ---
 
