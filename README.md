@@ -11,6 +11,8 @@
 
 [Link to my projects](https://fariadossantos.com/projects.html)
 
+[ROOT, an opensource zero-trust calandar and Kanban organizer](https://github.com/Dansnts/ROOT)
+
 ---
 
 ### Tech Stack
