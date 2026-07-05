@@ -44,7 +44,7 @@ Currently completing my bachelor's thesis on distributed geospatial image annota
 `Cisco` · `MikroTik` · `WireGuard` · `VXLAN` · `BGP`
 
 **Dev**
-`Git` · `GitHub Actions` · `FastAPI` · `Node.js` · `Bash` · `PowerShell`
+`Python` · `Go ` · `Git` · `GitHub Actions` · `FastAPI` · `Node.js` · `Bash` · `PowerShell`
 
 ---
 
