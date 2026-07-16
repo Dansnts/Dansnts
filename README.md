@@ -1,6 +1,6 @@
 <h1 align="center">Dani Faria dos Santos</h1>
 <p align="center">
-  IT Systems Engineering
+  Network & Systems Engineer
 </p>
 <p align="center">
   <a href="https://fariadossantos.com">fariadossantos.com</a> &nbsp;·&nbsp;
@@ -10,9 +10,9 @@
 
 ---
 
-Infrastructure engineer focused on distributed systems, container orchestration, and MLOps. I run a self-hosted Kubernetes cluster at home, deploy ML pipelines on GPU clusters, and write about what breaks along the way.
+Infrastructure and Systems Engineer focused on automation, observability, and technical minimalism. I build robust, secure, and scalable infrastructure. From on-premises GPU clusters for AI to hardened corporate network environments.
 
-Currently completing my bachelor's thesis on distributed geospatial image annotation with SAM3, Ray, and Kubernetes at IICT HEIG-VD.
+Currently working as an **MLOps Engineer at HEIG-VD**, architecting distributed AI infrastructure and cloud-native monitoring pipelines, while completing my bachelor's degree in Information and Communication Systems.
 
 ---
 
@@ -20,31 +20,27 @@ Currently completing my bachelor's thesis on distributed geospatial image annota
 
 | Project | Description |
 |---|---|
-| [TurboDex](https://github.com/Dansnts/TurboDex) | Car identification app : YOLOv8 model, TFLite edge inference, FastAPI backend, Flutter frontend |
-| [ROOT](https://github.com/Dansnts/ROOT) | Zero-knowledge personal workspace : Notes, Kanban, Calendar, AES-GCM encryption, 100% local |
-| [HealthChecker](https://github.com/Dansnts/HealthChecker) | URL monitoring service : async Python + FastAPI, polls endpoints and exposes health status via HTTP API |
-| [OpenSmartLitter](https://github.com/Dansnts/OpenSmartLitter) | IoT cat litter monitor : Arduino + LoRaWAN, InfluxDB time-series, Grafana health dashboard |
-| [workshop-IST](https://github.com/Dansnts/workshop-IST) | Apache Airflow workshop : practical ETL pipeline orchestration with Docker and PostgreSQL |
-| [More on my website](https://fariadossantos.com/projects.html) | Full project portfolio : homelab, SDN automation, monitoring, network infra |
+| [Homelab](https://fariadossantos.com/projects.html) | High-availability K3s cluster, GitOps (Ansible/Terraform), Ceph/PostgreSQL, and Zero-Knowledge backup |
+| [TurboDex](https://github.com/Dansnts/TurboDex) | Car identification app : YOLOv8 model, TFLite edge inference, FastAPI backend |
+| [ROOT](https://github.com/Dansnts/ROOT) | Zero-knowledge personal workspace : Notes, Kanban, Calendar, AES-GCM encryption |
+| [OpenSmartLitter](https://github.com/Dansnts/OpenSmartLitter) | IoT cat litter monitor : Arduino + LoRaWAN, InfluxDB, Grafana dashboard |
+| [workshop-IST](https://github.com/Dansnts/workshop-IST) | Apache Airflow workshop : practical ETL pipeline orchestration |
 
 ---
 
 ### Stack
 
 **Infrastructure & Orchestration**
-`Kubernetes` · `Proxmox` · `Docker` · `Ansible` · `Terraform` · `Azure`
+`Kubernetes` · `Proxmox` · `Docker` · `Ansible` · `Terraform` · `Azure` · `AWS`
 
-**ML & Data**
-`PyTorch` · `Ray` · `YOLOv8` · `TFLite` · `MinIO / S3` · `Python`
+**MLOps & Data**
+`PyTorch` · `KubeRay` · `YOLOv8` · `Grafana Alloy/Prometheus/Loki` · `MinIO`
 
-**Observability**
-`Grafana` · `Prometheus` · `ELK Stack` · `Loki`
+**Networking & Security**
+`Cisco` · `MikroTik` · `WireGuard` · `Linux Hardening` · `IAM` · `BGP`
 
-**Networking**
-`Cisco` · `MikroTik` · `WireGuard` · `VXLAN` · `BGP`
-
-**Dev**
-`Python` · `Go ` · `Git` · `GitHub Actions` · `FastAPI` · `Node.js` · `Bash` · `PowerShell`
+**Languages & Tools**
+`Python` · `Go` · `Bash` · `PowerShell` · `Git` · `GitHub Actions`
 
 ---
 
