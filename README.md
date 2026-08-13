@@ -17,10 +17,10 @@ Currently working as an **MLOps Engineer at HEIG-VD**, architecting distributed 
 ---
 
 ### Projects
-
 | Project | Description |
 |---|---|
 | [Homelab](https://fariadossantos.com/projects.html) | High-availability K3s cluster, GitOps (Ansible/Terraform), Ceph/PostgreSQL, and Zero-Knowledge backup |
+| [NetMirror](https://github.com/Dansnts/NetMirror) | Python automation tool for migrating physical network configs (Aruba/Arista) to EVE-NG virtual environments with LLDP topology generation. |
 | [TurboDex](https://github.com/Dansnts/TurboDex) | Car identification app : YOLOv8 model, TFLite edge inference, FastAPI backend |
 | [ROOT](https://github.com/Dansnts/ROOT) | Zero-knowledge personal workspace : Notes, Kanban, Calendar, AES-GCM encryption |
 | [OpenSmartLitter](https://github.com/Dansnts/OpenSmartLitter) | IoT cat litter monitor : Arduino + LoRaWAN, InfluxDB, Grafana dashboard |
