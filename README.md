@@ -37,7 +37,7 @@ Currently working as an **MLOps Engineer at HEIG-VD**, architecting distributed 
 `PyTorch` · `KubeRay` · `YOLOv8` · `Grafana Alloy/Prometheus/Loki` · `MinIO`
 
 **Networking & Security**
-`Cisco` · `MikroTik` · `WireGuard` · `Linux Hardening` · `IAM` · `BGP`
+`Cisco` · `MikroTik` · `WireGuard` · `Linux Hardening` · `IAM` · `BGP` · `OSPF`
 
 **Languages & Tools**
 `Python` · `Go` · `Bash` · `PowerShell` · `Git` · `GitHub Actions`
